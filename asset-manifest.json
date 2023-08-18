@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/alex-stroev/simple-login-gh/static/css/main.65e5feb5.css",
+    "main.js": "/alex-stroev/simple-login-gh/static/js/main.b546d38f.js",
+    "static/js/787.1387d6e6.chunk.js": "/alex-stroev/simple-login-gh/static/js/787.1387d6e6.chunk.js",
+    "index.html": "/alex-stroev/simple-login-gh/index.html",
+    "main.65e5feb5.css.map": "/alex-stroev/simple-login-gh/static/css/main.65e5feb5.css.map",
+    "main.b546d38f.js.map": "/alex-stroev/simple-login-gh/static/js/main.b546d38f.js.map",
+    "787.1387d6e6.chunk.js.map": "/alex-stroev/simple-login-gh/static/js/787.1387d6e6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65e5feb5.css",
+    "static/js/main.b546d38f.js"
+  ]
+}
