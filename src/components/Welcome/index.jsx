@@ -13,7 +13,7 @@ const Welcome = () => {
 
   return (
     <div className={styles.welcome}>
-      Здавствуйте, <b>{nameInLocalStorage}</b>
+      Здравствуйте, <b>{nameInLocalStorage}</b>
       <Button onClick={() => logOut()} className={styles.welcome__button}>
         Выйти
       </Button>
