@@ -1,0 +1,13 @@
+.home {
+}
+.user {
+  padding-bottom: 1em;
+
+  &__name {
+    font-weight: bold;
+  }
+
+  &__password {
+    font-style: italic;
+  }
+}

@@ -1,0 +1,18 @@
+.input {
+  background-color: #fff;
+  color: #000;
+  border-radius: var(--border-radius);
+  padding: var(--vpaddcontrol) 1em;
+  border: 1px solid var(--color1);
+  transition: var(--trans);
+  font-family: var(--ff);
+  font-size: 1rem;
+
+  &:disabled {
+    opacity: 0.5;
+  }
+  &:focus {
+    outline: none;
+    box-shadow: 0 0 8px 1px var(--color1);
+  }
+}

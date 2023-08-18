@@ -1,0 +1,14 @@
+.welcome {
+  background-color: var(--grey);
+  border-radius: var(--border-radius);
+  padding: 1em;
+
+  &__button {
+    margin-left: 1em;
+
+    @media (max-width: 720px) {
+      display: block;
+      margin: 1em 0 0 0;
+    }
+  }
+}

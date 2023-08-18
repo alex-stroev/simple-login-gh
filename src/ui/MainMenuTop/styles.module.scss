@@ -1,0 +1,23 @@
+.list {
+  margin: 0;
+  padding: 0.5em 0;
+  list-style: none;
+
+  li {
+    display: inline-block;
+    padding: 0.5em 1em;
+  }
+
+  a {
+    text-decoration: none;
+    font-weight: 600;
+
+    color: var(--color1);
+
+    &:hover,
+    &:active,
+    &.active {
+      color: var(--color2);
+    }
+  }
+}

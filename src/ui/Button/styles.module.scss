@@ -1,0 +1,20 @@
+.button {
+  background-color: var(--color1);
+  color: #fff;
+  cursor: pointer;
+  border: none;
+  border-radius: var(--border-radius);
+  padding: var(--vpaddcontrol) 2em;
+  font-family: var(--ff);
+  transition: var(--trans);
+  font-size: 1rem;
+
+  &:hover {
+    background-color: var(--color2);
+  }
+
+  &:disabled {
+    opacity: 0.5;
+    cursor: default;
+  }
+}

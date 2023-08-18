@@ -1,0 +1,45 @@
+const users = [
+  {
+    name: "Admin",
+    password: "12345",
+    image:
+      "https://static.wikia.nocookie.net/happytreefriends/images/2/25/Screen_Shot_2013-01-13_at_12.18.21_PM.png",
+    info: `<p>Lumpy is a light blue anthropomorphic moose (originally a dinosaur) with a low I.Q. (intelligence quotient), teeth that appear on his nose or mouth, weird eyes, and mismatched antlers. Instead of the normal small, plump body with a large, oval head, he is taller and skinnier than the other characters and has a smaller, narrower, elongated head. He is sometimes portrayed as the babysitter or caretaker for many of the other characters. He is also known to care for things other than his fellow tree friends, like his giant corn in Aw, Shucks! or his pet elephant in Junk in the Trunk. He usually means well and is nearly always kind and friendly. But most of the time he is clumsy and extremely unintelligent. His usual catchphrases are "Mmm-hmm!" when he thinks he has solved a problem or when he is satisfied and "Ah-ha!" when he gets an idea. He is one of the four primary characters as he appears in numerous advertisements.</p>
+    <p>Although Lumpy is normally portrayed as a good character, he can be portrayed as evil at times. While he generally never kills anyone by design, he is portrayed in an evil manner for the first time in Dunce Upon a Time. However, the first episode he killed another character intentionally was Happy Trails Pt. 2: Jumping the Shark, in which he participated in murdering Flaky or at least supported it. A famous example of Lumpy's antagonistic side is in We're Scrooged!, where he is shown to be quite greedy, cruel, and selfish, as he is seen stealing coins from The Mole's charity bucket and intentionally killing Toothy to sell his body parts. This is one of the few times when Lumpy has deliberately done wrongful actions for his own gain, as in most cases, they are done because of his stupidity. One of the other notable cases is in Every Litter Bit Hurts, where he is seen dumping garbage into a lake, among doing other harmful acts towards the environment.</p>
+    <p>Lumpy has a unique design compared to most characters, as he is the only character with a standard nose and two nostrils (all of the smaller Happy Tree Friends, with the exception of Sniffles, Mr. Pickels, and Truffles have heart-shaped noses). He is one of few characters (along with Cro-Marmot, Handy, Lammy, and Mr. Pickels) whose hands do not turn mitten-esque. He is also one of the characters without Pac-Man-shaped pupils (along with The Mole, Lifty & Shifty (in later episodes), Nutty, Fliqpy, and Cro-Marmot). Lumpy has appeared in the most episodes out of all the Tree Friends, and most fans consider him the oddball character due to his height and lack of a normal Happy Tree Friend style face. There have been arguments about his appearance being too close to "Bullwinkle" and "Montgomery Moose", the leader of The Get-Along Gang, so his right antler was drawn upside down. He is a hillbilly judging by his voice, his lifestyle, and the clothes he sometimes wears.</p>`,
+  },
+  {
+    name: "Flippy",
+    password: "11111",
+    image:
+      "https://static.wikia.nocookie.net/happytreefriends/images/9/9c/Flippy4Z.png",
+    info: `<p>Flippy is a green male bear. He wears dog tags around his neck and a green beret with a checkered crest on his head. He is a retired veteran soldier in the Army. He fought in the Weaponized Animal Regiment (The W.A.R), and has an obsession with making booby traps inspired by the Viet Cong, as well as a flashback of his experience of being held captive by them (as seen in Easy For You to Sleigh episode). In addition, his attire seems to resemble the U.S. Army Special Forces, which played a role during the Vietnam War. As he fought for years, he was promoted to the rank of Sergeant. According to writer Warren Graff, Flippy is mostly inspired by and based on John Rambo. During the internet and TV series, it is unknown if Flippy has retired from the Army or if they are simply in a time of peace. Flippy rarely appears in the series, most likely due to his repetitive behavior in most of the episodes in which he appears. Lumpy most likely has even more kills than Flippy, since he has below 150 kills and has only appeared in 23 episodes so far.</p>`,
+  },
+  {
+    name: "Flaky",
+    password: "22222",
+    image:
+      "https://static.wikia.nocookie.net/happytreefriends/images/6/62/FlakyZ.png",
+    info: `<p>Flaky is a red porcupine whose quills are full of white flake-like dandruff, thus her name. She's one of the most popular characters in the series and she has the identifiable personality of a very cautious and timid character, which is understandable considering that Happy Tree Friends live in constant danger of being brutally killed.</p>
+    <p>Flaky is often seen as a coward and very shy in many cases. However, some of Flaky's actions in both the internet episodes and the TV series go against this, as she has been brave and on several occasions saved her own life. Flaky is actually one of the kindest characters on the show, doing things like saving a baby bird in Take a Hike. She's often seen around Lumpy, Sniffles, and Cuddles. Additionally, when hanging around with Cuddles, Flaky is often forcefully dragged into situations that lead to one or both of their demises, despite her warning Cuddles about possible dangers that could occur. This is seen in Water You Wading For, Let It Slide, and The Wrong Side of the Tracks.</p>`,
+  },
+  {
+    name: "Cuddles",
+    password: "33333",
+    image:
+      "https://static.wikia.nocookie.net/happytreefriends/images/1/13/CuddlesProfilePictureImageZ.png",
+    info: `<p>Cuddles is a yellow rabbit with pink cheeks who inexplicably wears Pink Bunny Slippers. His pale yellow curly hair tuft and cotton tail look exactly the same. His ears sometimes move to match how he feels. For example, when he's happy/energized his ears stay up, and when he's upset/sad they'll drop down. Cuddles is one of the primary characters in the series. Like Giggles, Toothy and Lumpy, he appears in many of the advertisements. Cuddles was the first character to be created in Happy Tree Friends. Creator Rhode Montijo first drew him on a piece of paper with the phrase Resistance Is Futile above and that was how the creators got the idea for the show. His voice is even performed by the co-creator of the show Kenn Navarro.</p>
+    <p>Cuddles' personality is somewhat mixed. On one hand, he can be dangerously mischievous and a fun lover. Both of these characteristics have led to the death of both himself and other characters (Flaky being usually who tries to warn him). On the other hand, he is usually lovable, optimistic, friendly, sweet and caring, making his personality more complex than the others. Cuddles' personality is also known for its innocence and naivety, which makes him easy to manipulate by other characters, an example of this is when Lifty and Shifty take advantage of him in Junk in the Trunk, or in In a Jam when The Mole makes him donate blood twice to get his new guitar. As revealed in In a Jam, he is referred to as a music lover, mainly rock music. He was seen to have multiple houses, but his official one is considered to be a hollow tree, as it is the only one to appear more than once (In a Jam and Hear Today, Gone Tomorrow). He is particularly good friends with Toothy, Flippy, Petunia, Flaky, and Lumpy. Cuddles and Giggles are also very close friends, and it has been hinted several times they are romantically involved. Their relationship is most prominent in the Fall Out Boy music video The Carpal Tunnel of Love, and hinted at in the internet episode I Nub You.</p>`,
+  },
+  {
+    name: "Petunia",
+    password: "44444",
+    image:
+      "https://static.wikia.nocookie.net/happytreefriends/images/c/c4/PetuniaNewStyle.png",
+    info: `<p>Petunia is an indigo and Navy Blue skunk with a sky-blue arrow marking on her forehead, which is connected to the triangle-shaped marking on the back of her head and sky-blue lines on her long tail. She always wears a pink flower on top of her head and a pine scent car air freshener or deodorizer around her neck. Her name and species are somewhat of a parody of the character Flower from the Disney movie Bambi. She likes playing with dolls and strollers, as well as having tea parties with her friends.</p>
+    <p>Petunia is often seen with Giggles. They appear to be best friends, as they run a lemonade stand together, play together, and exercise together. Her love interests have been both Mime and Handy, although she seems closer to the latter, as evidenced in My Better Half and I Nub You. In My Better Half, they are seen taking a "Tunnel of Love"-ride, and in I Nub You, they start dating. Just like Giggles, she dislikes Disco Bear, (however even more so than Giggles does) as she is annoyed when he frequently tries to flirt with her.</p>`,
+  },
+];
+
+// Немного похулиганим)))
+export default users;
